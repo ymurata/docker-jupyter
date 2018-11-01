@@ -2,7 +2,8 @@
 
 ## Requirements
 this contents needs to install docker and docker-compose.
-[see docker and docker compose][https://docs.docker.com/install/]
+
+[see docker and docker compose](https://docs.docker.com/install/)
 
 - docker
 - docker-compose
@@ -24,4 +25,4 @@ $ docker-compose build
 $ docker-compose up
 ```
 
-Access [http://localhost:8888][http://localhost:8888].
+Access [http://localhost:8888](http://localhost:8888).
