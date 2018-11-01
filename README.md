@@ -1,4 +1,4 @@
-# docker-jupyter-criq
+# docker-jupyter-cirq
 
 ## Requirements
 this contents needs to install docker and docker-compose.
@@ -14,8 +14,8 @@ Clone this repository,
 
 ```
 $ cd path/to/repos
-$ git clone git@github.com:ymurata/docker-jupyter-criq.git
-$ cd path/to/repos/docker-jupyter-cirq
+$ git clone git@github.com:ymurata/docker-jupyter-cirq.git
+$ cd ./docker-jupyter-cirq
 ```
 
 and execute command of docker-compose.
