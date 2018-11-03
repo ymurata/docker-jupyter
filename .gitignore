@@ -1,3 +1,2 @@
-!.local/share/jupyter
-.local/share/jupyter/*
-!.local/share/jupyter/nbextensions/
+.local/share/jupyter
+.local/share/jupyter/nbextensions/
