@@ -5,7 +5,7 @@ services:
     ports:
       - 8888:8888
     volumes:
-      - ./notebooks:/notebooks
+      - ./notebooks:/app/notebooks
       - ./.local:/home/jovyan/.local
       - ./.jupyter/nbconfig:/home/jovyan/.jupyter/nbconfig
       - ./.jupyter/custom:/home/jovyan/.jupyter/custom
